@@ -51,16 +51,19 @@ I enjoy solving complex problems, optimizing code, and building scalable, intell
 
 ##  GitHub Stats
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=NeerajKumar-1044&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NeerajKumar-1044&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="49%"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajKumar-1044&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%"/>
-  
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar-1044&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajKumar-1044&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar-1044&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
 
 </div>
+
 
 ---
 
