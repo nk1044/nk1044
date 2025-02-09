@@ -1,8 +1,11 @@
 # About Me
 
-### Hi there! I'm Neeraj Kumar 👋
-**B.Tech in Computer Science Engineering** | 💡 Passionate about **DevOps** & **Machine Learning**  
-I enjoy solving complex problems, optimizing code, and building scalable, intelligent systems. Currently exploring **Cloud Technologies** and **AI-driven applications**.  
+### Hi there! I'm Neeraj 
+
+**B.Tech in Computer Science Engineering** | Passionate about **Backend Development, DevOps & Machine Learning**  
+I enjoy **solving complex problems**, optimizing code for efficiency, and **building scalable systems** that make an impact. Currently diving deep into **Cloud Technologies** and **AI-driven applications** to push my skills further.
+
+Always up for a challenge and excited to learn something new every day! 
 
 ---
 
