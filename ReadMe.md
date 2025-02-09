@@ -2,10 +2,10 @@
 
 ### Hi there! I'm Neeraj 
 
-**B.Tech in Computer Science Engineering** | Passionate about **Backend Development, DevOps & Machine Learning**  
-I enjoy **solving complex problems**, optimizing code for efficiency, and **building scalable systems** that make an impact. Currently diving deep into **Cloud Technologies** and **AI-driven applications** to push my skills further.
+I am a **B.Tech student in Computer Science Engineering** with a passion for **Backend Development, DevOps, and Machine Learning**.  
+I enjoy **solving problems**, writing efficient code, and **building scalable systems**. Currently, I am exploring **Cloud Technologies** and **AI-driven applications** to enhance my skills.  
 
-Always up for a challenge and excited to learn something new every day! 
+I enjoy learning new things every day and taking on new challenges!
 
 ---
 
