@@ -88,6 +88,11 @@ I am a **B.Tech student in Computer Science Engineering** passionate about **Bac
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NeerajKumar-1044&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## **🤝 Let's Connect & Collaborate**
 
 If you're interested in discussing **DevOps, Machine Learning, or Full-Stack Development**, feel free to reach out! I'm always open to collaborating on exciting projects. 🚀
