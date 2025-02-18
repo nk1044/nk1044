@@ -60,11 +60,11 @@ I'm a **B.Tech Computer Science Engineering** student passionate about **Backend
 ## **📊 GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeerajKumar-1044&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nk1044&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajKumar-1044&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nk1044&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar-1044&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk1044&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
@@ -72,7 +72,7 @@ I'm a **B.Tech Computer Science Engineering** student passionate about **Backend
 ## **📈 Contributions & Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeerajKumar-1044&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk1044&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -80,13 +80,13 @@ I'm a **B.Tech Computer Science Engineering** student passionate about **Backend
 ## **👀 Profile Views**
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NeerajKumar-1044/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/nk1044/count.svg" alt="Visitor's Count" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NeerajKumar-1044&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
