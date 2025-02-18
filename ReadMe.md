@@ -1,8 +1,5 @@
 # 👋 Hi there! I'm Neeraj Kumar
-
-## **🚀 About Me**
-
-I am a **B.Tech student in Computer Science Engineering** passionate about **Backend Development, DevOps, and Machine Learning**. I love solving challenging problems, optimizing performance, and designing scalable systems. Currently, I'm exploring **Cloud Technologies** and **AI-driven applications** to expand my expertise.
+I'm a **B.Tech Computer Science Engineering** student passionate about **Backend Development** and **DevOps**. I love solving tough problems, making systems run faster, and building scalable solutions. Recently, I've been learning more about **Cloud Technologies**, i am currently working on **trydivjs**—a JavaScript UI library that lets you create complete components with just one line of code, cutting down on repetitive work and making UI development simpler.
 
 ---
 
