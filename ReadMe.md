@@ -25,18 +25,18 @@
   </p>
   
   <!-- Typing Animation (New Addition) -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=3AABF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Computer+Science+Student;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3AABF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Computer+Science+Student;Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
 <!-- Fancy Separator (New Addition) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science Engineering** student passionate about **Backend Development** and **DevOps**. I solve complex problems, optimize systems, and build scalable solutions. Currently working on [**trydivjs**](https://github.com/nk1044/trydivjs) — a JavaScript UI library that creates complete components with just one line of code, simplifying UI development.
 
 <!-- Fancy Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Tech Stack
 
@@ -105,7 +105,7 @@ I'm a **B.Tech Computer Science Engineering** student passionate about **Backend
 </div>
 
 <!-- Fancy Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 GitHub Stats
 
@@ -128,7 +128,7 @@ I'm a **B.Tech Computer Science Engineering** student passionate about **Backend
 </div>
 
 <!-- Fancy Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🤝 Let's Connect & Collaborate
 
