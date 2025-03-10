@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering** student passionate about **Backend Development** and **DevOps**. I solve complex problems, optimize systems, and build scalable solutions. Currently working on [**trydivjs**](https://github.com/nk1044/trydivjs) — a JavaScript UI library that creates complete components with just one line of code, simplifying UI development.
+I'm a **B.Tech Computer Science Engineering** student passionate about **Backend Development** and **DevOps**. I solve complex problems, optimize systems, and build scalable solutions. Currently working on [**trydivjs**](https://divjs.vercel.app/) — a JavaScript UI library that creates complete components with just one line of code, simplifying UI development.
 
 <!-- Fancy Separator -->
 ---
