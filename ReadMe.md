@@ -28,9 +28,9 @@ B.Tech Computer Science Engineering student specializing in Backend Development 
 
 ---
 
-## Technical Portfolio
+## Tech
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Core Technologies</h3>
@@ -91,7 +91,7 @@ B.Tech Computer Science Engineering student specializing in Backend Development 
 
 ---
 
-## Performance Analytics
+## Analytics
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
@@ -108,12 +108,12 @@ B.Tech Computer Science Engineering student specializing in Backend Development 
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nk1044&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
   
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="98%" alt="GitHub Trophies"/>
+  ![](https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ---
 
-## Professional Collaboration
+## Collaboration
 
 I welcome opportunities to collaborate on challenging projects in Backend Development, DevOps, and Cloud Technologies. My approach focuses on building efficient, scalable solutions that solve real-world problems.
 
