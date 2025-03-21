@@ -1,27 +1,4 @@
 # Neeraj Kumar
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="light.png">
-    <img alt="Neeraj Kumar" src="light.png" width="800" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15); margin: 20px 0;">
-  </picture>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=3AABF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Computer+Science+Student;Problem+Solver" alt="Typing Animation" />
-  </a>
-
-  <div style="margin: 25px 0;">
-    <a href="https://linkedin.com/in/neerajkumar1044" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:neerajkumar.cs1044@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <img src="https://profile-counter.glitch.me/nk1044/count.svg" alt="Visitor Count" style="margin-left: 10px; background: #f8f9fa; padding: 2px 5px; border-radius: 3px;">
-  </div>
-</div>
-
 ## About me
 
 B.Tech Computer Science Engineering student. Focused on Backend Development, DevOps solutions, problem-solving, system optimization, and delivering scalable architectures. Currently developing [trydivjs](https://divjs.vercel.app/), a JavaScript UI library that simplifies interface development by creating complete components with minimal code.
