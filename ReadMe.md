@@ -94,7 +94,7 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
 
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=true&margin-w=10" 
-       alt="GitHub Trophies" width="80%"/>
+       alt="GitHub Trophies" width="100%"/>
 </div>
 
 
