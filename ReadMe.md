@@ -73,19 +73,11 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
 <div align="center">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=nk1044&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="49%" height="190px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nk1044&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" height="190px"/>
-  </div>
-  
-  <!-- Languages & Activity -->
-  <div style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk1044&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" width="50%"/>
   </div>
-  
-  <!-- Activity Graph -->
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nk1044&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
-  
+
   <!-- GitHub Trophies -->
-  ![](https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=false&no-bg=true&margin-w=8)
 </div>
 
 ---
