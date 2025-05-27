@@ -6,7 +6,6 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
 ---
 
 ### Tech Stack  
-
 <table>
   <tr>
     <th>Languages</th>
@@ -21,6 +20,7 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
     </td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
@@ -44,6 +44,7 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
     </td>
     <td>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
