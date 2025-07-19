@@ -1,7 +1,7 @@
 # Neeraj Kumar
 ## About me
 
-B.Tech Computer Science Engineering student. Focused on Backend Development, DevOps solutions, problem-solving, system optimization, and delivering scalable architectures. Currently developing [trydivjs](https://divjs.vercel.app/), a JavaScript UI library that simplifies interface development by creating complete components with minimal code.
+B.Tech Computer Science Engineering student. Focused on Backend Development, DevOps solutions, problem-solving, system optimization, and delivering scalable architectures.
 
 ---
 
