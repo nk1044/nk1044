@@ -56,7 +56,6 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
     <td>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
-      <img src="https://img.shields.io/badge/Loki-2C3E50?style=flat-square&logo=loki&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -72,32 +71,6 @@ B.Tech Computer Science Engineering student. Focused on Backend Development, Dev
     </td>
   </tr>
 </table>
-
----
-
-##  Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nk1044&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" 
-             alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk1044&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" 
-             alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=nk1044&theme=radical&no-frame=true&margin-w=10" 
-       alt="GitHub Trophies" width="100%"/>
-</div>
-
 
 ---
 
